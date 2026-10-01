@@ -43,7 +43,7 @@ The project helped me better understand how technical security issues can be tra
 
 ## Project Files
 
-- `Risk_Register.xlsx` — Risk identification, likelihood and impact ratings, controls, and remediation recommendations
+- `Cybersecurity_Risk_Register.xlsx` — Risk identification, likelihood and impact ratings, controls, and remediation recommendations
 - `NIST_CSF_2.0_Gap_Assessment.xlsx` — Assessment of security practices against NIST CSF 2.0
 
 ## Framework
